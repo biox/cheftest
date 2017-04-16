@@ -1,4 +1,5 @@
 # hp_cheftest
 
-TODO: Enter the cookbook description here.
+## This is an actual README.md file
 
+This cookbook is being used to test Jenkins + Chef Server integration.
